@@ -1,4 +1,1 @@
-Git is a version control system.
-Git is free software.
-继续测试
-Test
+这是一个简单的JAVA病毒，可以远程控制别人的电脑，也可以给别人的电脑上上传和下载东西
